@@ -18,7 +18,7 @@ for further info.
 
 ## Sample render
 
-![](img/mandelbrot.png)
+![](mandelbrot.png)
 
 ## Requirements
 
